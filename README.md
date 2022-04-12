@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jhennyf
-- 👀 I’m interested in me formar em Sistemas de Informação 
+- 👀 I’m interested formar em Sistemas de Informação 
 - 🌱 I’m currently learning Java e um pouquinho de inglês
 - 💞️ I’m looking to collaborate on qualquer coisa
 - 📫 How to reach me por aqui
