@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java e um pouquinho de inglês
 - 💞️ I’m looking to collaborate on qualquer coisa
 - 📫 How to reach ñ vai me achar
--
 
 <!---
 Jhennyf/Jhennyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
