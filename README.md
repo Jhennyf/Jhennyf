@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Jhennyf
-- 👀 I’m Curso Sistemas de Informação 
-- 🌱 I’m currently learning Java
-- 
 
 System.out.println("A fé na vitória tem que ser inabalável!");
 <!---
